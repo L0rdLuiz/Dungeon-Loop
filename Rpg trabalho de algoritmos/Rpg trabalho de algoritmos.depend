@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693492025 source:c:\users\luiz antonio\documents\aula de algoritmos\rpg trabalho de algoritmos\main.cpp
+	<iostream>
+	<locale.h>
+	<stdlib.h>
+	<unistd.h>
+
